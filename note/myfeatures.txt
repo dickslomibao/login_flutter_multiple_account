@@ -1,0 +1,11 @@
+Simple login system.
+
+description:
+This application allows you to login with multiple 
+account every username are stored in single 
+array same as will with the password. If the username and password is 
+correct it will automatically redirect you in main page.
+
+Validation:
+if the username or password is empty then you clicked the button the alert dialog will show, 
+the same also when the username and password are incorrect.
